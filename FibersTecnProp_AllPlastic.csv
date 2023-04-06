@@ -1,0 +1,5 @@
+Product;Tensile_strength;Tensile_modulus;Density;Glass_Transition;Thermal_Conductivity;Electric_Resistivity
+PC;57.5;2.3;1.13;146;0.2;10000000000000
+Epoxy;80;3.75;0.9;150;0.11;10000000000
+Phenolics;47.5;3.4;0.95;280;0.34;1000000000000
+Vinyl esters;74;3.4;1.13;155;0.2;500000000000

@@ -1,0 +1,4 @@
+﻿Product;Tensile_strength;Tensile_modulus;Density;Glass_Transition;Thermal_Conductivity;Electric_Resistivity
+Epoxy;80;3.75;0.9;150;0.11;1
+Phenolics;47.5;3.4;0.95;280;0.34;1
+Vinyl esters;74;3.4;1.13;155;0.2;5

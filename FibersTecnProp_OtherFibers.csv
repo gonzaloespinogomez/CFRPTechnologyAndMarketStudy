@@ -1,0 +1,9 @@
+Product;Tensile_Strength;Tensile_modulus;Density;Thermal_Conductivity;Electric_Resistivity
+Std Carbon Fiber;3530;230;1.76;200;0.0000017
+Aramid;3000;63;1.4;0.04;1000
+E-Glass;2000;70;2.54;0.03;4000000000
+S-Glass;4570;86;2.49;0.03;4000000000
+Cotton;287;5.5;1.14;0.031;7680
+Hemp;550;70;0.86;0.039;4000
+Jute;393;10;1.5;0.43;1200
+Bamboo;500;27;0.974;0.082;8925
